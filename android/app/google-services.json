@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527451544494",
+    "project_id": "kafel-el-yatim",
+    "storage_bucket": "kafel-el-yatim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527451544494:android:2577f39eef5cd9a226063f",
+        "android_client_info": {
+          "package_name": "com.example.kafelelyatimee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527451544494-pkcm9ujvnoa7ji4vf2s13e8tghnnijl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTYTmtz_g2RQf4oSoJNOsigM2bWGO5Cxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527451544494-pkcm9ujvnoa7ji4vf2s13e8tghnnijl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
